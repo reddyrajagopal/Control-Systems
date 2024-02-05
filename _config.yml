@@ -21,7 +21,7 @@
 #  algorithms and data structures (dictionaries, arrays, linked lists).
 #  Student learn these concepts through studying the Python programming
 #  language.  
-baseurl: "/Control Systems" # the subpath of your site, e.g. /blog
+baseurl: "/Control-Systems" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 number: A8206
